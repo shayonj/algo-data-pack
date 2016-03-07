@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-# Solution to https://open.kattis.com/problems/aaah
+# Solution to https://open.kattis.com/problems/different
 
 result = []
 lines = gets(nil).split(" ").map(&:to_i)
