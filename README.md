@@ -1,4 +1,6 @@
-## Algo-Data-Pack: On the court of getting better at algorithms and data structures.
+## Algo-Data-Pack:
+
+**On the course of getting better at algorithms and data structures.**
 
 A repository to host my new learnings, discoveries and methods on solving algorithmic and data structure related problems in Software Development and/or Computer Science.
 
