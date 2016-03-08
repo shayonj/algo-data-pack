@@ -3,7 +3,7 @@
 # Solution to https://open.kattis.com/problems/armystrengthhard/
 
 STDOUT.flush
-cases = gets.split(" ").map(&:to_i)[0]
+cases = gets.to_i
 
 cases.times do |c|
   STDOUT.flush

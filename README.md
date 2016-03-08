@@ -16,5 +16,6 @@ A repository to host my new learnings, discoveries and methods on solving algori
 * [Pizza Delivery](kattis/pizza_delivery.rb)
 * [Army Strength (Easy)](kattis/armystrengthhard.rb)
 * [Army Strength (Hard)](kattis/armystrengthhard.rb)
+* [Another Candies](kattis/anothercandies.rb)
 
 Feel free to collaborate and/or leave feedback.

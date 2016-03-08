@@ -4,7 +4,7 @@
 
 result = []
 STDOUT.flush
-cases = gets.split(" ").map(&:to_i)[0]
+cases = gets.to_i
 
 def efficient_point(array, total)
   upside = final = current = 0
