@@ -14,6 +14,7 @@ A repository to host my new learnings, discoveries and methods on solving algori
 * [Natrij](kattis/natrij.rb)
 * [Reversed Binary Numbers](kattis/reversed_binary.rb)
 * [Pizza Delivery](kattis/pizza_delivery.rb)
-
+* [Army Strength (Easy)](kattis/armystrengthhard.rb)
+* [Army Strength (Hard)](kattis/armystrengthhard.rb)
 
 Feel free to collaborate and/or leave feedback.
