@@ -17,5 +17,6 @@ A repository to host my new learnings, discoveries and methods on solving algori
 * [Army Strength (Easy)](kattis/armystrengthhard.rb)
 * [Army Strength (Hard)](kattis/armystrengthhard.rb)
 * [Another Candies](kattis/anothercandies.rb)
+* [Tajna](kattis/tajna.rb)
 
 Feel free to collaborate and/or leave feedback.
